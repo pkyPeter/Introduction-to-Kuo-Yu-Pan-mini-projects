@@ -1,4 +1,4 @@
-# Introduction-to-Kuo-Yu-Pan-mini-projects
+# Introduce to Kuo Yu Pan mini projects
 ToDo List, Puzzle game, Basic blog
 
 ## ToDo List
